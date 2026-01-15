@@ -1,0 +1,9 @@
+git init
+cd repo8
+touch file 9
+git add . file9
+git commit -m "good morning"
+git remote -v
+git push
+git reset
+git log
