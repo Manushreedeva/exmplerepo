@@ -1,0 +1,10 @@
+ls
+git stash pop
+ls -a
+git status
+touch file
+git add .file
+git commit -m "hello world"
+git log
+git tag v1.0
+git revert id(log id)
