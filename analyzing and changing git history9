@@ -1,0 +1,6 @@
+touch shree
+git add .shree
+git commit -m "hello"
+git status
+git log
+git show (log id)
