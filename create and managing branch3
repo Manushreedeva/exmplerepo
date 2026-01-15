@@ -1,0 +1,7 @@
+git init 
+git branch
+git status
+touch friends
+git add-friends
+git stash save
+git checkout master
