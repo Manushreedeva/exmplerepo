@@ -1,0 +1,8 @@
+git init
+cd manu
+git status
+touc file 6
+git add .file 6
+git commit -m
+git status 
+git log -2
