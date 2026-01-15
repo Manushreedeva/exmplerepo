@@ -1,0 +1,27 @@
+cd desktop/
+cd 4AD25CI404/
+cd cs-AlliedBranchs/
+git clone
+ls
+touch ssc
+git add .
+git commit -m
+git log
+git push
+git pull origin
+git branch
+git branc v1
+git add .
+git commit -m
+git log
+git commit -v
+git remote set -url
+git push origin v1
+git checkout p1
+touch filename
+git add .
+git commit -m
+git log
+git ceckout main
+git merge
+git log
