@@ -1,0 +1,22 @@
+git clone
+ls
+cd repo2
+ls -l
+  git branch
+git checkout -b newbranch
+git branch
+git merge newbranch
+git ceckout -b newbranch
+git init
+ls
+git add .
+git add . a
+  git status
+git commit -m
+  git log
+git remote -v
+  git push origin main
+origin https://(repository code)fetch
+origin https://(repository code) push
+git push origin main
+everything-up-to-date
