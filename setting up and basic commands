@@ -1,0 +1,6 @@
+git --version (check if git is installed and shows its version)
+git init (initializes a new git repository in your current folder)
+git status (shows the current status of your repository(which files are modified ,staged or untracked))
+git add .file (adds files to the staging area prepares them for commit)
+git commit -m (commits your staged files permanently in the local repository with a message)
+git log (shows the history of commits)
