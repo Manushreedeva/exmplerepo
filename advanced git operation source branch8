@@ -1,0 +1,20 @@
+mkdir shree
+cd shree
+git clone "https://
+ls
+cd manu
+touch login.html
+git branch
+git add login.html
+ls
+git status
+touch reg -html
+git add reg.html
+git status
+touc token -txt
+git remote set -url login https://
+git commit -m
+git push origin main
+git pull origin main
+git status
+git cerry -pick
