@@ -1,0 +1,16 @@
+git init
+git clone
+cd repo -b
+touch files
+git add .files
+git commit -m
+git remote -v 
+git branch
+git push origin main
+git pull origin main
+git branch new
+git checkout new
+touch file 9
+git add .file 9
+ls
+git status
