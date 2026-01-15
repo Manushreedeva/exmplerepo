@@ -1,0 +1,8 @@
+git branch (lists all brances or create a new one)
+git branch <branch2>
+git add .file
+git status
+git commit -m "hello world"
+git branch
+git cechkout master (switches to a specific branch)
+git merge <branch2> (merge the brances into the current branch)
