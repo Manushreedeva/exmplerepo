@@ -1,3 +1,5 @@
+mkdir
+cd 
 git --version (check if git is installed and shows its version)
 git init (initializes a new git repository in your current folder)
 git status (shows the current status of your repository(which files are modified ,staged or untracked))
